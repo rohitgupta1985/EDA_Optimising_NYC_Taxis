@@ -26,24 +26,24 @@ This analysis aims to optimize taxi operations by leveraging yellow taxi trip da
 
 ### Key Problems
 
-● What are the busiest hours, days, and months for taxi pickups?
-● How do trip distances affect fare amounts and tip percentages?
-● Which zones experience the highest demand for taxi pickups and drop-offs?
-● What are the best times and locations to position taxis for maximum efficiency?
-● How do different payment types and extra charges impact revenue?
-● How can pricing strategies be optimized to increase profitability?
+- What are the busiest hours, days, and months for taxi pickups?
+- How do trip distances affect fare amounts and tip percentages?
+- Which zones experience the highest demand for taxi pickups and drop-offs?
+- What are the best times and locations to position taxis for maximum efficiency?
+- How do different payment types and extra charges impact revenue?
+- How can pricing strategies be optimized to increase profitability?
 
 ### Tasks
 
-● Data Loading
-● Data Cleaning
-● Exploratory Analysis: Bivariate and Multivariate
-● Creating Visualisations to Support the Analysis
-● Deriving Insights and Stating Conclusions
+- Data Loading
+- Data Cleaning
+- Exploratory Analysis: Bivariate and Multivariate
+- Creating Visualisations to Support the Analysis
+- Deriving Insights and Stating Conclusions
 
 ## Zip File Contents
 
 The zip file contains the below files:
 
-● ipynb file: EDA_Assg_NYC_Taxi_Starter_Rohit_Gupta.ipynb
-● Report file: Report_NYC_Taxi_Operations_Starter_Rohit_Gupta.pdf
+- ipynb file: EDA_Assg_NYC_Taxi_Starter_Rohit_Gupta.ipynb
+- Report file: Report_NYC_Taxi_Operations_Starter_Rohit_Gupta.pdf
